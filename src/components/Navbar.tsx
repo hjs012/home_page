@@ -35,7 +35,7 @@ export default function Navbar() {
           <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-electric-blue to-neon-purple flex items-center justify-center shadow-lg shadow-electric-blue/20">
             <Sparkles className="text-white w-6 h-6" />
           </div>
-          <span className="text-xl font-bold tracking-tight">AuraBuild <span className="gradient-text">AI</span></span>
+          <span className="text-xl font-bold tracking-tight">AI <span className="gradient-text">홈페이지 제작</span></span>
         </motion.div>
 
         {/* Desktop Menu */}

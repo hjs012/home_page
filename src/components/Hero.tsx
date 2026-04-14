@@ -27,7 +27,7 @@ export default function Hero() {
           
           <p className="text-lg text-white/60 mb-10 max-w-lg leading-relaxed">
             코딩 지식 없이도 당신의 비즈니스를 위한 완벽한 웹사이트를 구축하세요. 
-            AuraBuild AI가 디자인부터 배포까지 모든 과정을 자동화합니다.
+            AI 홈페이지 제작이 디자인부터 배포까지 모든 과정을 자동화합니다.
           </p>
 
           <div className="flex flex-wrap gap-4">

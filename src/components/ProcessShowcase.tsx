@@ -43,7 +43,7 @@ export default function ProcessShowcase() {
           </motion.h2>
           <p className="text-white/40 max-w-2xl mx-auto break-keep">
             복잡한 코딩이나 디자인 고민은 이제 그만하세요. 
-            AuraBuild AI가 당신의 상상을 현실로 만드는 4단계 프로세스입니다.
+            AI 홈페이지 제작이 당신의 상상을 현실로 만드는 4단계 프로세스입니다.
           </p>
         </div>
 

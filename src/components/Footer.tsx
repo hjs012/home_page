@@ -10,10 +10,10 @@ export default function Footer() {
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-electric-blue to-neon-purple flex items-center justify-center">
                 <Sparkles className="text-white w-5 h-5" />
               </div>
-              <span className="text-xl font-bold tracking-tight">AuraBuild <span className="gradient-text">AI</span></span>
+              <span className="text-xl font-bold tracking-tight">AI <span className="gradient-text">홈페이지 제작</span></span>
             </div>
             <p className="text-white/40 max-w-sm text-sm leading-relaxed">
-              AuraBuild AI는 차세대 인공지능 기술을 활용하여 누구나 쉽고 빠르게 
+              AI 홈페이지 제작은 차세대 인공지능 기술을 활용하여 누구나 쉽고 빠르게 
               전문가 수준의 웹사이트를 구축할 수 있도록 돕습니다. 
               당신의 비즈니스 가치를 디지털 세상에 완벽하게 전달하세요.
             </p>
@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-xs text-white/20 font-medium uppercase tracking-widest">
-          <p>© 2026 AuraBuild AI. All rights reserved.</p>
+          <p>© 2026 AI 홈페이지 제작. All rights reserved.</p>
           <p>Made with ❤️ for visionary entrepreneurs</p>
         </div>
       </div>
