@@ -19,7 +19,7 @@ export default function Hero() {
             AI-Powered Website Builder MVP
           </div>
           
-          <h1 className="text-5xl md:text-7xl font-extrabold leading-[1.1] mb-8">
+          <h1 className="text-5xl md:text-7xl font-extrabold leading-[1.1] mb-8 break-keep">
             3분 만에 완성되는<br />
             <span className="gradient-text">나만의 AI 비즈니스</span><br />
             파트너

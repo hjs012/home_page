@@ -70,7 +70,7 @@ export default function PortfolioGrid() {
             >
               성공적인 <span className="gradient-text">비즈니스의 시작</span>
             </motion.h2>
-            <p className="text-white/40">AI가 제작한 다양한 업종의 실제 포트폴리오를 확인해보세요.</p>
+            <p className="text-white/40 break-keep">AI가 제작한 다양한 업종의 실제 포트폴리오를 확인해보세요.</p>
           </div>
 
           <div className="flex flex-wrap gap-2">
@@ -136,7 +136,7 @@ export default function PortfolioGrid() {
                   
                   <div className="p-6">
                     <h3 className="text-xl font-bold mb-2">{item.title}</h3>
-                    <p className="text-sm text-white/40 leading-relaxed">
+                    <p className="text-sm text-white/40 leading-relaxed break-keep">
                       {item.description}
                     </p>
                   </div>

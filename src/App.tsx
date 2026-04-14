@@ -75,7 +75,7 @@ export default function App() {
           >
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-extrabold mb-4">홈페이지 제작 신청</h1>
-              <p className="text-white/40">AI가 당신의 비즈니스를 분석하기 위해 몇 가지 질문을 드릴게요.</p>
+              <p className="text-white/40 break-keep">AI가 당신의 비즈니스를 분석하기 위해 몇 가지 질문을 드릴게요.</p>
             </div>
             <MultiStepForm onComplete={handleFormComplete} />
             

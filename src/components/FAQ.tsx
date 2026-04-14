@@ -37,7 +37,7 @@ export default function FAQ() {
           >
             자주 묻는 <span className="gradient-text">질문</span>
           </motion.h2>
-          <p className="text-white/40">궁금하신 점이 있으신가요? 가장 많이 묻는 질문들을 모았습니다.</p>
+          <p className="text-white/40 break-keep">궁금하신 점이 있으신가요? 가장 많이 묻는 질문들을 모았습니다.</p>
         </div>
 
         <div className="space-y-4">
@@ -66,7 +66,7 @@ export default function FAQ() {
                     exit={{ height: 0, opacity: 0 }}
                     transition={{ duration: 0.3 }}
                   >
-                    <div className="px-8 pb-6 text-white/60 leading-relaxed text-sm">
+                    <div className="px-8 pb-6 text-white/60 leading-relaxed text-sm break-keep">
                       {faq.answer}
                     </div>
                   </motion.div>

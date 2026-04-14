@@ -71,7 +71,7 @@ export default function MultiStepForm({ onComplete }: Props) {
             >
               <div>
                 <h2 className="text-3xl font-bold mb-2">비즈니스 정보</h2>
-                <p className="text-white/40">당신의 멋진 비즈니스를 소개해주세요.</p>
+                <p className="text-white/40 break-keep">당신의 멋진 비즈니스를 소개해주세요.</p>
               </div>
 
               <div className="space-y-6">
@@ -115,7 +115,7 @@ export default function MultiStepForm({ onComplete }: Props) {
             >
               <div>
                 <h2 className="text-3xl font-bold mb-2">디자인 선호도</h2>
-                <p className="text-white/40">AI가 참고할 스타일을 선택하세요.</p>
+                <p className="text-white/40 break-keep">AI가 참고할 스타일을 선택하세요.</p>
               </div>
 
               <div className="grid grid-cols-2 gap-4">
@@ -173,7 +173,7 @@ export default function MultiStepForm({ onComplete }: Props) {
             >
               <div>
                 <h2 className="text-3xl font-bold mb-2">마지막 단계</h2>
-                <p className="text-white/40">연락처와 추가 요청사항을 입력해주세요.</p>
+                <p className="text-white/40 break-keep">연락처와 추가 요청사항을 입력해주세요.</p>
               </div>
 
               <div className="space-y-6">

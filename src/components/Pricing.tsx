@@ -51,7 +51,7 @@ export default function Pricing() {
           >
             투명하고 합리적인 <span className="gradient-text">가격 정책</span>
           </motion.h2>
-          <p className="text-white/40 max-w-2xl mx-auto">
+          <p className="text-white/40 max-w-2xl mx-auto break-keep">
             비즈니스의 규모에 맞는 최적의 플랜을 선택하세요. 언제든지 업그레이드 가능합니다.
           </p>
         </div>
